@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 venv
+
+tuan3/MNIST
+tuan3/.ipynb_checkpoints
